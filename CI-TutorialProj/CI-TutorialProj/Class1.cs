@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CI_TestProj
+namespace CI_TutorialProj
 {
     public class Class1
     {
